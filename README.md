@@ -1,8 +1,5 @@
----
-title: "[ZEEYIM's STACK"](https://zeeyim.com/)"
-link: "https://zeeyim.com/"
-powered by: "This site is powered by Hugo"
----
+`title`: [ZEEYIM's STACK"](https://zeeyim.com/)
+`url`: https://zeeyim.com
 
 ## Hugo basic operations
 ------------------------
