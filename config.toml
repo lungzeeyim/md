@@ -1,0 +1,55 @@
+title = "ZEEYIM's STACK"
+baseURL = 'https://zeeyim.com'
+languageCode = 'en-us'
+theme = "hugo-blog-awesome"
+
+# To enable Google Analytics 4 (gtag.js) provide G-MEASUREMENT_ID below.
+# To disable  Google Analytics, simply leave the field empty or remove the next line
+googleAnalytics = 'G-RB7T2MKS8R' # G-MEASUREMENT_ID
+
+
+# Enable emojis globally
+enableEmoji = true
+
+# set markup.highlight.noClasses=false to enable code highlight
+[markup]
+  [markup.highlight]
+    noClasses = false
+
+[menu]
+  [[menu.main]] 
+    # The page reference (pageRef) is useful for menu highlighting
+    # When pageRef is set, setting `url` is optional; it will be used as a fallback if the page is not found.
+    pageRef="/"
+    name = 'Home'
+    url = '/'
+    weight = 10
+  [[menu.main]]
+    pageRef="posts"
+    name = 'Posts'
+    url = '/posts/'
+    weight = 20
+  [[menu.main]]
+    pageRef="about"
+    name = 'About'
+    url = '/about/'
+    weight = 30
+
+[params]
+  sitename = "ZEEYIM's Stack"
+  defaultColor = "light" # set default color mode: dark or light
+  description = "Minimal Hugo blog theme with light and dark mode support"
+
+[params.author]
+  avatar = "img/avatar.jpg"
+  intro = "ZEEYIM's STACK"
+  name = "Zeeyim Lung"
+  description = "my personal \"stack\" in my mind"
+
+disqusShortname = "zeeyims-stack"
+
+[sitemap]
+  changefreq = 'always'
+  filename = 'sitemap.xml'
+  priority = 0.5
+

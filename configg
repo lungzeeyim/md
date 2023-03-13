@@ -1,0 +1,27 @@
+baseURL: https://zeeyim.com
+languageCode: en-us
+theme: hugo-blog-awesome
+
+DefaultContentLanguage: en
+SectionPagesMenu: main
+Paginate: 3
+googleAnalytics: ""
+
+title: Latim Jibber Jabber
+weight: 1
+contentDir: content
+
+sitemap:
+  changefreq: daily
+  priority: 0.5
+  filename: sitemap.xml
+
+params:
+  favicon: null
+  site_logo: null
+  description: Pellentesque commodo dolor leo.
+  recent_posts_number: 10
+
+markup:
+  highlight:
+    style: native
