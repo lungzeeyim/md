@@ -1,5 +1,6 @@
-`title`: [ZEEYIM's STACK"](https://zeeyim.com/)
-`url`: https://zeeyim.com
+`title`: [ZEEYIM's STACK](https://zeeyim.com/)  
+
+`url`: https://zeeyim.com  
 
 ## Hugo basic operations
 ------------------------
