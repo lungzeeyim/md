@@ -1,7 +1,7 @@
 ---
-title: "This site is powered by Hugo"
-date: 2023-03-11T20:11:34+08:00
-draft: false
+title: "ZEEYIM's STACK"
+link: https://zeeyim.com/
+powered by: "This site is powered by Hugo"
 ---
 
 ## Hugo basic operations
