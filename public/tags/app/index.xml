@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on ZEEYIM&#39;s STACK</title>
-    <link>https://zeeyim.com/posts/</link>
-    <description>Recent content in Posts on ZEEYIM&#39;s STACK</description>
+    <title>app on ZEEYIM&#39;s STACK</title>
+    <link>https://zeeyim.com/tags/app/</link>
+    <description>Recent content in app on ZEEYIM&#39;s STACK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Mar 2023 15:43:42 +0800</lastBuildDate><atom:link href="https://zeeyim.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Mar 2023 15:43:42 +0800</lastBuildDate><atom:link href="https://zeeyim.com/tags/app/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Setup new macOS</title>
       <link>https://zeeyim.com/posts/setup-new-macos/</link>
@@ -14,17 +14,6 @@
       
       <guid>https://zeeyim.com/posts/setup-new-macos/</guid>
       <description>Install Apps Via Mac Store wechat iWork Pages Numbers keynote mindNode YoudaoDict QQ MUSIC Slack Via Browser v2rayU: https://github.com/yanue/V2rayU/releases brew https://docs.brew.sh/Installation /bin/bash -c &amp;quot;$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)&amp;quot; Chrome: https://www.google.com/chrome BaiduPan: https://pan.baidu.com/download#pan Creative Cloud Installer: https://account.adobe.com/?lang=en telegram: https://desktop.telegram.org/ qq doc: https://docs.qq.com/desktop/ filezilla: https://filezilla-project.org/download.php?platform=osx host: sftp://example.com, iTerm2: https://iterm2.com/downloads.html Vscode: https://code.visualstudio.com/Download NetEase Music: https://music.163.com/#/download ClashX Pro: https://install.appcenter.ms/users/clashx/apps/clashx-pro/distribution_groups/public Via brew neovim: brew install --HEAD neovim Set up Enable Chrome Download list layout: chrome://flags/ -&amp;gt; enable Enable download bubble</description>
-    </item>
-    
-    <item>
-      <title>This site is powered by Hugo</title>
-      <link>https://zeeyim.com/posts/my-first-post/</link>
-      <pubDate>Sat, 11 Mar 2023 20:11:34 +0800</pubDate>
-      
-      <guid>https://zeeyim.com/posts/my-first-post/</guid>
-      <description>Hugo basic operations New post hugo new posts/my-first-post.md start server hugo server -D public hugo Local useful commands SSH shotcut create/modify file ~/.ssh/config
-Host shotcutName HostName 12.12.12.12 Port 3211 User root after that, you can jsut run and get rid of long command:
-ssh shotcutName Upload everything in public folder to your server&amp;rsquo;s folder scp -r public/* shotcut:~/siteFiles alias shotcut # `hugos` for running the server at anywhere alias hugos=&amp;#34;cd ~/Documents/md/ &amp;amp;&amp;amp; hugo server -D&amp;#34; # `note` for opening the neovim at hugo foler alias note=&amp;#34;cd ~/Documents/md/ &amp;amp;&amp;amp; nvim .</description>
     </item>
     
   </channel>

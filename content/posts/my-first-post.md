@@ -2,6 +2,8 @@
 title: "This site is powered by Hugo"
 date: 2023-03-11T20:11:34+08:00
 draft: false
+categories: [Setup]
+tags: ['Hugo', 'commands', 'nginx', 'domain name']
 ---
 
 ## Hugo basic operations
@@ -45,8 +47,10 @@ scp -r public/* shotcut:~/siteFiles
 ```
 # `hugos` for running the server at anywhere
 alias hugos="cd ~/Documents/md/ && hugo server -D"
+
 # `note` for opening the neovim at hugo foler
 alias note="cd ~/Documents/md/ && nvim ."
+
 # `generate` public files & upl for uploading public files to VPS
 alias upl="cd ~/Documents/md/ && hugo && scp -r ~/Documents/md/public/* zeeyim:~/blog/"
 ```

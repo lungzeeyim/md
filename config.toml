@@ -24,16 +24,26 @@ enableEmoji = true
     name = 'Home'
     url = '/'
     weight = 10
+ [[menu.main]]
+    pageRef="categories"
+    name = 'Categories'
+    url = '/categories/'
+    weight = 20
+[[menu.main]]
+    pageRef="Tags"
+    name = 'Tags'
+    url = '/Tags/'
+    weight = 30
   [[menu.main]]
     pageRef="posts"
     name = 'Posts'
     url = '/posts/'
-    weight = 20
+    weight = 90
   [[menu.main]]
     pageRef="about"
     name = 'About'
     url = '/about/'
-    weight = 30
+    weight = 100
 
 [params]
   sitename = "ZEEYIM's Stack"
@@ -53,3 +63,7 @@ disqusShortname = "zeeyims-stack"
   filename = 'sitemap.xml'
   priority = 0.5
 
+[taxonomies]
+  category = 'categories'
+  series = 'series'
+  tag = 'tags'

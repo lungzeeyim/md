@@ -1,7 +1,9 @@
 ---
-title: "Setup new MacOS"
+title: "Setup new macOS"
 date: 2023-03-12T15:43:42+08:00
 draft: false
+tags: [macOS, app, software, setup]
+categories: [Setup]
 ---
 
 ## Install Apps
@@ -33,11 +35,17 @@ draft: false
 9. iTerm2: https://iterm2.com/downloads.html
 10. `Vscode`: https://code.visualstudio.com/Download
 11. `NetEase Music`: https://music.163.com/#/download
+12. `ClashX Pro`: https://install.appcenter.ms/users/clashx/apps/clashx-pro/distribution_groups/public
 
 ##### Via brew
-1. `neovim`: `brew install --HEAD neovim`
-
-
+1. `neovim`: 
+    ```
+    brew install --HEAD neovim
+    ```
+2. `youtube-dl`: 
+    ```
+    brew install youtube-dl
+    ```
 
 ## Set up
 ---------
