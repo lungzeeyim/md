@@ -6,14 +6,24 @@
     <description>Recent content in Posts on ZEEYIM&#39;s STACK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Mar 2023 15:43:42 +0800</lastBuildDate><atom:link href="https://zeeyim.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 27 Mar 2023 22:55:39 +0800</lastBuildDate><atom:link href="https://zeeyim.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Setup new macOS</title>
+      <title>Basque Cheesecake 巴斯克芝士蛋糕</title>
+      <link>https://zeeyim.com/posts/basque-cheesecake/</link>
+      <pubDate>Mon, 27 Mar 2023 22:55:39 +0800</pubDate>
+      
+      <guid>https://zeeyim.com/posts/basque-cheesecake/</guid>
+      <description>器材 6寸模具 烤炉温度计 油纸 筛网 打蛋器 秤 材料 奶油奶酪（软化） 250g 细沙糖 60g 鸡蛋 x2 蛋黄 x1 淡奶油 120g 玉米淀粉 10g 步骤 奶油奶酪 + 糖，搅拌至细滑 分三次 ：加入蛋液（2全单+1蛋黄）并搅拌 慢慢一边加淡奶油，一边搅拌 加入 过筛后 玉米淀粉 最后 用筛过滤 并倒入模具 烘烤 理论是上下加热220度中层，烤20~25分钟。
+笔者第一次烤严格按时间，所以就烤焦了一点点。 所以第一次还是，在15分钟的时候，开始观察， 觉得表面ok了，是你喜欢的感觉就可以结束了。</description>
+    </item>
+    
+    <item>
+      <title>Setup My New macOS</title>
       <link>https://zeeyim.com/posts/setup-new-macos/</link>
       <pubDate>Sun, 12 Mar 2023 15:43:42 +0800</pubDate>
       
       <guid>https://zeeyim.com/posts/setup-new-macos/</guid>
-      <description>Install Apps Via Mac Store wechat iWork Pages Numbers keynote mindNode YoudaoDict QQ MUSIC Slack Via Browser v2rayU: https://github.com/yanue/V2rayU/releases brew https://docs.brew.sh/Installation /bin/bash -c &amp;quot;$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)&amp;quot; Chrome: https://www.google.com/chrome BaiduPan: https://pan.baidu.com/download#pan Creative Cloud Installer: https://account.adobe.com/?lang=en telegram: https://desktop.telegram.org/ qq doc: https://docs.qq.com/desktop/ filezilla: https://filezilla-project.org/download.php?platform=osx host: sftp://example.com, iTerm2: https://iterm2.com/downloads.html Vscode: https://code.visualstudio.com/Download NetEase Music: https://music.163.com/#/download ClashX Pro: https://install.appcenter.ms/users/clashx/apps/clashx-pro/distribution_groups/public Via brew neovim: brew install --HEAD neovim Set up Enable Chrome Download list layout: chrome://flags/ -&amp;gt; enable Enable download bubble</description>
+      <description>Install Apps Communication wechat (app store) qq (app store) telegram: https://desktop.telegram.org/ Slack Web tool yt-dlp: A youtube-dl fork with additional features and fixes pip install yt-dlp Chrome: https://www.google.com/chrome BaiduPan: https://pan.baidu.com/download#pan Filezilla: https://filezilla-project.org/download.php?platform=osx host: sftp://example.com, cctalke: https://www.cctalk.com/download Utilities v2rayU: https://github.com/yanue/V2rayU/releases ClashX Pro: https://install.appcenter.ms/users/clashx/apps/clashx-pro/distribution_groups/public brew https://docs.brew.sh/Installation /bin/bash -c &amp;quot;$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)&amp;quot; Entertainment QQ MUSIC NetEase Music: https://music.163.com/#/download Productivity iWork Pages Numbers keynote mindNode YoudaoDict qq doc: https://docs.qq.com/desktop/ Art Creative Cloud Installer: https://account.adobe.com/?lang=en System tools: rime-cantonese input method: https://github.</description>
     </item>
     
     <item>

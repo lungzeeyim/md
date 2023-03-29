@@ -2,6 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://zeeyim.com/posts/basque-cheesecake/</loc>
+    <lastmod>2023-03-27T22:55:39+08:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://zeeyim.com/posts/</loc>
+    <lastmod>2023-03-27T22:55:39+08:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://zeeyim.com/</loc>
+    <lastmod>2023-03-27T22:55:39+08:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://zeeyim.com/about/</loc>
     <lastmod>2023-03-13T20:49:46+08:00</lastmod>
     <changefreq>always</changefreq>
@@ -18,11 +33,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://zeeyim.com/tags/macos/</loc>
-    <lastmod>2023-03-12T15:43:42+08:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://zeeyim.com/posts/</loc>
     <lastmod>2023-03-12T15:43:42+08:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
@@ -48,11 +58,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://zeeyim.com/tags/</loc>
-    <lastmod>2023-03-12T15:43:42+08:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://zeeyim.com/</loc>
     <lastmod>2023-03-12T15:43:42+08:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>

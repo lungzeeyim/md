@@ -8,12 +8,12 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 12 Mar 2023 15:43:42 +0800</lastBuildDate><atom:link href="https://zeeyim.com/tags/macos/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Setup new macOS</title>
+      <title>Setup My New macOS</title>
       <link>https://zeeyim.com/posts/setup-new-macos/</link>
       <pubDate>Sun, 12 Mar 2023 15:43:42 +0800</pubDate>
       
       <guid>https://zeeyim.com/posts/setup-new-macos/</guid>
-      <description>Install Apps Via Mac Store wechat iWork Pages Numbers keynote mindNode YoudaoDict QQ MUSIC Slack Via Browser v2rayU: https://github.com/yanue/V2rayU/releases brew https://docs.brew.sh/Installation /bin/bash -c &amp;quot;$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)&amp;quot; Chrome: https://www.google.com/chrome BaiduPan: https://pan.baidu.com/download#pan Creative Cloud Installer: https://account.adobe.com/?lang=en telegram: https://desktop.telegram.org/ qq doc: https://docs.qq.com/desktop/ filezilla: https://filezilla-project.org/download.php?platform=osx host: sftp://example.com, iTerm2: https://iterm2.com/downloads.html Vscode: https://code.visualstudio.com/Download NetEase Music: https://music.163.com/#/download ClashX Pro: https://install.appcenter.ms/users/clashx/apps/clashx-pro/distribution_groups/public Via brew neovim: brew install --HEAD neovim Set up Enable Chrome Download list layout: chrome://flags/ -&amp;gt; enable Enable download bubble</description>
+      <description>Install Apps Communication wechat (app store) qq (app store) telegram: https://desktop.telegram.org/ Slack Web tool yt-dlp: A youtube-dl fork with additional features and fixes pip install yt-dlp Chrome: https://www.google.com/chrome BaiduPan: https://pan.baidu.com/download#pan Filezilla: https://filezilla-project.org/download.php?platform=osx host: sftp://example.com, cctalke: https://www.cctalk.com/download Utilities v2rayU: https://github.com/yanue/V2rayU/releases ClashX Pro: https://install.appcenter.ms/users/clashx/apps/clashx-pro/distribution_groups/public brew https://docs.brew.sh/Installation /bin/bash -c &amp;quot;$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)&amp;quot; Entertainment QQ MUSIC NetEase Music: https://music.163.com/#/download Productivity iWork Pages Numbers keynote mindNode YoudaoDict qq doc: https://docs.qq.com/desktop/ Art Creative Cloud Installer: https://account.adobe.com/?lang=en System tools: rime-cantonese input method: https://github.</description>
     </item>
     
   </channel>
