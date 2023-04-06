@@ -8,13 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 27 Mar 2023 22:55:39 +0800</lastBuildDate><atom:link href="https://zeeyim.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Basque Cheesecake 巴斯克芝士蛋糕</title>
+      <title>巴斯克芝士蛋糕 | Basque Cheesecake</title>
       <link>https://zeeyim.com/posts/basque-cheesecake/</link>
       <pubDate>Mon, 27 Mar 2023 22:55:39 +0800</pubDate>
       
       <guid>https://zeeyim.com/posts/basque-cheesecake/</guid>
-      <description>器材 6寸模具 烤炉温度计 油纸 筛网 打蛋器 秤 材料 奶油奶酪（软化） 250g 细沙糖 60g 鸡蛋 x2 蛋黄 x1 淡奶油 120g 玉米淀粉 10g 步骤 奶油奶酪 + 糖，搅拌至细滑 分三次 ：加入蛋液（2全单+1蛋黄）并搅拌 慢慢一边加淡奶油，一边搅拌 加入 过筛后 玉米淀粉 最后 用筛过滤 并倒入模具 烘烤 理论是上下加热220度中层，烤20~25分钟。
-笔者第一次烤严格按时间，所以就烤焦了一点点。 所以第一次还是，在15分钟的时候，开始观察， 觉得表面ok了，是你喜欢的感觉就可以结束了。</description>
+      <description>
+器材 6寸模具 烤炉温度计 油纸 筛网 打蛋器 秤 材料 奶油奶酪（软化） 250g 细沙糖 60g 鸡蛋 x2 蛋黄 x1 淡奶油 120g 玉米淀粉 10g 步骤 奶油奶酪 + 糖，搅拌至细滑 分三次 ：加入蛋液（2全单+1蛋黄）并搅拌 慢慢一边加淡奶油，一边搅拌 加入 过筛后 玉米淀粉 最后 用筛过滤 并倒入模具 烘烤 理论是上下加热220度中层，烤20~25分钟。
+笔者第一次烤严格按时间，所以就烤焦了一点点。 所以第一次还是，在15分钟的时候，开始观察， 觉得表面ok了，是你喜欢的感觉就可以结束了。
+reference: https://www.xiachufang.com/recipe/104600030/ </description>
     </item>
     
     <item>
@@ -43,7 +45,7 @@ WORK EXPERIENCE HSBC Software Development Limited, as senior Java backend develo
       <pubDate>Sat, 11 Mar 2023 20:11:34 +0800</pubDate>
       
       <guid>https://zeeyim.com/posts/my-first-post/</guid>
-      <description>Hugo basic operations New post hugo new posts/my-first-post.md start server hugo server -D public hugo Local useful commands SSH shotcut create/modify file ~/.ssh/config
+      <description>Hugo basic operations New post hugo new posts/my-first-post.md start server hugo server -D public hugo additonal setting for each post (categories and tags) categories: [Setup] tags: [&amp;#39;Hugo&amp;#39;, &amp;#39;commands&amp;#39;, &amp;#39;nginx&amp;#39;, &amp;#39;domain name&amp;#39;] Local useful commands SSH shotcut create/modify file ~/.ssh/config
 Host shotcutName HostName 12.12.12.12 Port 3211 User root after that, you can jsut run and get rid of long command:
 ssh shotcutName Upload everything in public folder to your server&amp;rsquo;s folder scp -r public/* shotcut:~/siteFiles alias shotcut # `hugos` for running the server at anywhere alias hugos=&amp;#34;cd ~/Documents/md/ &amp;amp;&amp;amp; hugo server -D&amp;#34; # `note` for opening the neovim at hugo foler alias note=&amp;#34;cd ~/Documents/md/ &amp;amp;&amp;amp; nvim .</description>
     </item>

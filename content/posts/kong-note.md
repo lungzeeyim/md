@@ -81,6 +81,82 @@ Let you report on traffic (报告流量状况) using logging plugins and Kong Vi
 
 Task:
 1. Enable a Consumer
+2. Provision key credentials (提供关键凭证)for Consumer 'Joe'
+3. Verify Consumer credentials are valid & the Auth plugin is properly configured
+
+### Upstreams
+Two methods for load balancing (负载平衡)
+1. DNS-based
+2. ring-balancer
+
+Virtual IPs of a service/route is behind `load balancer`
+
+### Recap
+1. upstream API (service) called "httpbin" and its URL: httpbin.org/anything
+2. route "myfrontend.com/foo" pointing to this service
+3. authentication plugin for requiring API Keys
+4. consumer (user) with valid credentials
+
+`Refer to (参考)` the documentation `as (当)` you perform the following lab.
+
+### Monitoring with Vitals
+- Use Kong Vitals (Vitals) to monitor Kong Gateway health and performance. And understand API `transaction (事务)`.
+- visual API analytics
+- `pinpoint (精确定位) anomalies (异常)` in real time
+
+Use Kong Admin API to access Vitals
+- visualizations including dashboarding of Vitals data `alongside (与)` data from other system.
+
+Kong Vitals:
+1. `ramp up (增加)` the number of requests for user 'Joe'
+2. view 4XX errors and `traffic spike (流量急升)`
+3. reconfigure the rate limiting plugin to exclude user 'Joe'
+4. verify reduced errors
+
+### Kong Admin API
+Edit configuration through Kong Admin API
+
+Kong comes with an internal RESTful Admin API for administration purposes.
+- API is for internal use
+- API has full control over Kong
+- `care should be taken (小心)`, avoid `undue (不适当的)` public exposure of APIs
+
+Will `go through (通过)` and explain the `various (各种) component and functionality of Kong.
+
+Verify Kong Admin API is Running
+```
+http GET http://localhost:8001 --headers
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

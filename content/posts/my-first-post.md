@@ -23,6 +23,12 @@ hugo server -D
 hugo
 ```
 
+##### additonal setting for each post (categories and tags)
+```
+categories: [Setup]
+tags: ['Hugo', 'commands', 'nginx', 'domain name']
+```
+
 ## Local useful commands
 -----------------------
 ##### SSH shotcut

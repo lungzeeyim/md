@@ -22,7 +22,7 @@
       <pubDate>Sat, 11 Mar 2023 20:11:34 +0800</pubDate>
       
       <guid>https://zeeyim.com/posts/my-first-post/</guid>
-      <description>Hugo basic operations New post hugo new posts/my-first-post.md start server hugo server -D public hugo Local useful commands SSH shotcut create/modify file ~/.ssh/config
+      <description>Hugo basic operations New post hugo new posts/my-first-post.md start server hugo server -D public hugo additonal setting for each post (categories and tags) categories: [Setup] tags: [&amp;#39;Hugo&amp;#39;, &amp;#39;commands&amp;#39;, &amp;#39;nginx&amp;#39;, &amp;#39;domain name&amp;#39;] Local useful commands SSH shotcut create/modify file ~/.ssh/config
 Host shotcutName HostName 12.12.12.12 Port 3211 User root after that, you can jsut run and get rid of long command:
 ssh shotcutName Upload everything in public folder to your server&amp;rsquo;s folder scp -r public/* shotcut:~/siteFiles alias shotcut # `hugos` for running the server at anywhere alias hugos=&amp;#34;cd ~/Documents/md/ &amp;amp;&amp;amp; hugo server -D&amp;#34; # `note` for opening the neovim at hugo foler alias note=&amp;#34;cd ~/Documents/md/ &amp;amp;&amp;amp; nvim .</description>
     </item>

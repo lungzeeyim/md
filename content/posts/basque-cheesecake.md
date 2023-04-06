@@ -1,12 +1,14 @@
 ---
-title: "Basque Cheesecake 巴斯克芝士蛋糕"
+title: "巴斯克芝士蛋糕 | Basque Cheesecake"
 date: 2023-03-27T22:55:39+08:00
 draft: false
+categories: [cooking]
+tags: ['cake']
 ---
 
 ![cake-materials](/img/2023-3/cake-materials.jpg)
 
-## 器材
+### 器材
 - 6寸模具
 - 烤炉温度计
 - 油纸
@@ -22,14 +24,14 @@ draft: false
 - 淡奶油 120g
 - 玉米淀粉 10g
 
-## 步骤
+### 步骤
 1. 奶油奶酪 + 糖，搅拌至细滑
 2. **分三次** ：加入蛋液（2全单+1蛋黄）并搅拌
 3. 慢慢一边加淡奶油，一边搅拌
 4. 加入 **过筛后** 玉米淀粉
 5. 最后 **用筛过滤** 并倒入模具
 
-## 烘烤
+### 烘烤
 理论是上下加热220度中层，烤20~25分钟。  
 
 笔者第一次烤严格按时间，所以就烤焦了一点点。
@@ -40,5 +42,5 @@ draft: false
 ![cake-2](/img/2023-3/cake-2.jpg)
 ![cake-3](/img/2023-3/cake-3.jpg)
 
-reference: 
+### reference: 
 - https://www.xiachufang.com/recipe/104600030/
